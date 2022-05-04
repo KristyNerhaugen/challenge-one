@@ -4,18 +4,18 @@
 
 ### This link will take you to the refactored site: 
 
-PUT LINK HERE
+[See deployed site here](https://kristynerhaugen.github.io/challenge-one/)
 
 ### These three images show the refactored site. Although it looks the same as the starter code, the functionality has changed. 
 
-#### ![Screen Shot One](assets/images/ScreenShot_1.pgn)
-#### ![Screen Shot Two](assets/images/ScreenShot_2.pgn)
-#### ![Screen Shot Three](assets/images/ScreenShot_3.pgn)
+#### ![Screen Shot One](assets/images/ScreenShot_1.png)
+#### ![Screen Shot Two](assets/images/ScreenShot_2.png)
+#### ![Screen Shot Three](assets/images/ScreenShot_3.png)
 
 
 ## Installation
 ### Here is a list of the steps I took to install this project. These steps are also reflected in my frequent commits and pushes to GitHub. 
-#### I updated <title> in header to reflect the website name (Horiseon) and, for clarity, I moved the <title> section above the link to the CSS style sheet. 
+#### I updated "title" in header to reflect the website name (Horiseon) and, for clarity, I moved the "title" section above the link to the CSS style sheet. 
 #### As I worked, I added notes throughout the HTML (<!— —>) and CSS style sheet (/* */).
 #### As I worked, I added spacing and indents to make the HTML and CSS sheets clearer to read.
 #### I removed the class=“header” from the first "div" and renamed the "div" to "header" to ensure semantic HTML was used. I updated the CSS to reflect this change (removed the “.” before header).
@@ -40,3 +40,4 @@ PUT LINK HERE
 ### The starter code for this site was provided by Horiseon's marking agency. The modifications I made to it were as a result of information I learned in the BootCamp Spot modules and information I learned in BootCamp classes. I also referred to W3 School to better understand HTML semantic Elements (https://www.w3schools.com/html/html5_semantic_elements.asp). 
 
 ## License 
+### n/a 
