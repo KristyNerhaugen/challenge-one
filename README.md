@@ -8,9 +8,9 @@ PUT LINK HERE
 
 ### These three images show the final site. Although it looks the same as the starter code, the functionality has changed. 
 
-#### ![alt text] (assets/images/ScreenShot_1.pgn)
-#### ![alt text] (assets/images/ScreenShot_2.pgn)
-#### ![alt text] (assets/images/ScreenShot_3.pgn)
+#### ![Screen Shot One](assets/images/ScreenShot_1.pgn)
+#### ![Screen Shot Two](assets/images/ScreenShot_2.pgn)
+#### ![Screen Shot Three](assets/images/ScreenShot_3.pgn)
 
 
 ## Installation
